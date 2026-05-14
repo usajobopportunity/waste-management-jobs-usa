@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usajobopportunity.github.io/waste-management-jobs-usa/sitemap.xml
